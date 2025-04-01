@@ -21,3 +21,10 @@ The step, nameDest, nameOrig, and isFlaggedFraud columns were removed before mak
 The nameDest and nameOrig columns were string values that wouldn't have made the predictions anymore accurate 
 
 # Modeling
+Logistic Regression - Accuracy: 0.9992
+
+Logistic Regression - Precision: 0.9120
+
+Logistic Regression - Recall: 0.4684
+
+Logistic Regression - F1_Score: 0.6189
