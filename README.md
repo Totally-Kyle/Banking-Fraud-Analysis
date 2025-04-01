@@ -7,7 +7,7 @@ In this project I will find which tranaction types has the highest rate of fraud
 In this Projetct I will be using EDA, machine learning and modeling to detect fraudulent transaction in th banking data. This project isn't just to identifying fraud but also predicting which transaction type will most likely have fraudulent activities.
 
 # Exploratory Data Analysis
-99.9% of the data is non-fraudulent and 0.01% is fraudulent.
+99.9% of the data is non-fraudulent and 0.1% is fraudulent.
 
 There are 5 transaction types in the dataset with payment and cash_out having the most activity and debit being the least
 
